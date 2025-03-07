@@ -18,6 +18,8 @@
     <section>
         <h2>Learn Cloud & Software Development</h2>
         <p>Join our expert-led courses on Java, Python, and AWS Cloud Computing.</p>
+        <p>Software Development Institute in Pune</p>
+
     </section>
 </body>
 </html>
