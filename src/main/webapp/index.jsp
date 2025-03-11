@@ -10,9 +10,9 @@
     <header>
         <h1>Welcome to CJC Classes</h1>
         <nav>
-            <a href="index.html">Home</a>
-            <a href="about.html">About</a>
-            <a href="contact.html">Contact</a>
+            <a href="index.jsp">Home</a>
+            <a href="about.jsp">About</a>
+            <a href="contact.jsp">Contact</a>
         </nav>
     </header>
     <section>
